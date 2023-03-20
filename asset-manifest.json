@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommerce-web/static/css/main.9bc27355.css",
+    "main.js": "/ecommerce-web/static/js/main.d4d8e1da.js",
+    "static/js/787.bbe01249.chunk.js": "/ecommerce-web/static/js/787.bbe01249.chunk.js",
+    "static/media/apple.png": "/ecommerce-web/static/media/apple.6e5e18a890e903d45433.png",
+    "index.html": "/ecommerce-web/index.html",
+    "main.9bc27355.css.map": "/ecommerce-web/static/css/main.9bc27355.css.map",
+    "main.d4d8e1da.js.map": "/ecommerce-web/static/js/main.d4d8e1da.js.map",
+    "787.bbe01249.chunk.js.map": "/ecommerce-web/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc27355.css",
+    "static/js/main.d4d8e1da.js"
+  ]
+}
